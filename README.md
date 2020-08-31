@@ -35,4 +35,4 @@ foreach (string author in Wordlist)
                 
 ```                
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
+[![](https://github.com/supunsarachitha/RandomWordGenarator/blob/master/ScreenShot.PNG)
