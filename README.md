@@ -22,7 +22,10 @@ string people_character_names_popular = "people_character_names_popular";
 
 WebClient client = new WebClient();
 
-string RandomWords = client.DownloadString("https://www.wordgenerator.net/application/p.php?id="+ people_character_names_popular + "&type=1&spaceflag=false");
+string RandomWords = client.DownloadString("https://www.wordgenerator.net/application/p.php?id="
+                    + people_character_names_popular + 
+                    "&type=1&spaceflag=false");
+                    
 string[] Wordlist = RandomWords.Split(",");
 
 
