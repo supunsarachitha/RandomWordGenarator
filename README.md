@@ -35,4 +35,4 @@ foreach (string author in Wordlist)
                 
 ```                
 
-
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
