@@ -2,7 +2,7 @@
 this is a sample Concept of random dictionary words generator by C# 
 
 
-This Code call https://www.wordgenerator.net API. It will returns a different set of 50 words each time.
+This Code call https://www.wordgenerator.net API. It will returns a set of 50 different words each time.
 we can get different types of words by changing "id"
 
 ex id="charades_easy" returns simple words
